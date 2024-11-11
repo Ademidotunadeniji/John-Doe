@@ -1,11 +1,11 @@
-let school='UNIVERSITY OF ILORIN'
+let school ='UNIVERSITY OF ILORIN'
 
 console.log(school)
 
-let name='femisire'
+let name ='femisire'
 
 console.log(name)
 
-let age='27'
+let age ='27'
 
 console.log(age)
