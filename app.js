@@ -1,11 +1,7 @@
-let school ='UNIVERSITY OF ILORIN'
+const day = 3
+const myDay = "third is the 3 day of the week"
 
-console.log(school)
+console.log(typeof(day))
+console.log(myDay)
 
-let name ='femisire'
 
-console.log(name)
-
-let age ='27'
-
-console.log(age)
